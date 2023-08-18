@@ -65,7 +65,7 @@ small
   text-transform: capitalize;
 }
 
-.submit_btn
+.submit-btn
 {
   width: 70px;
   height: 70px;
@@ -81,7 +81,7 @@ small
   top: 30px;
 }
 
-.submit_btn:hover
+.submit-btn:hover
 {
   background-color: black;
 }
